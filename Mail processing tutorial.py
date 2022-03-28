@@ -1,3 +1,5 @@
+# Opens a file named 'maillog.txt'
+
 fhand = open('maillog.txt')
 counts = dict()
 
